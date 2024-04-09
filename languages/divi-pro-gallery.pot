@@ -1,0 +1,436 @@
+# Copyright (C) 2023 Divi Pro Gallery
+# This file is distributed under the same license as the Divi Pro Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Pro Gallery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPPaw <hello@wppaw.com>\n"
+"POT-Creation-Date: 2023-09-22 22:38+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin.php:108
+msgid "Redirect on new install."
+msgstr ""
+
+#: includes/admin.php:127
+msgid "WP Version"
+msgstr ""
+
+#: includes/admin.php:132
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: includes/admin.php:137
+msgid "WP Memory Usage"
+msgstr ""
+
+#: includes/admin.php:142
+msgid "WP Debug Mode"
+msgstr ""
+
+#: includes/admin.php:143
+msgid "Yes"
+msgstr ""
+
+#: includes/admin.php:143
+msgid "No"
+msgstr ""
+
+#: includes/admin.php:147
+msgid "Server Info"
+msgstr ""
+
+#: includes/admin.php:152
+msgid "PHP version"
+msgstr ""
+
+#: includes/attachment.php:21
+msgid "%1s - Tags (Ex: Branding, Print)"
+msgstr ""
+
+#: includes/attachment.php:27
+msgid "%1s - Link"
+msgstr ""
+
+#: includes/helper.php:57
+msgid "Full"
+msgstr ""
+
+#: includes/licenser.php:86
+msgid "License not active"
+msgstr ""
+
+#: includes/licenser.php:96
+msgid "Unauthorized request"
+msgstr ""
+
+#: includes/licenser.php:143
+msgid "Activated"
+msgstr ""
+
+#: includes/licenser.php:143
+msgid "Deactivated"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:25
+msgid "Pro Gallery"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:34
+msgid "General"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:35, includes/modules/Gallery/Gallery.php:377
+msgid "Lightbox & Links"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:36, includes/modules/Gallery/Gallery.php:59
+msgid "Filter Bar"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:37
+msgid "Captions"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:38, includes/modules/Gallery/Gallery.php:73
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:39
+msgid "Hover Effects"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:44
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:45, includes/modules/Gallery/Gallery.php:110, includes/modules/Gallery/Gallery.php:952
+msgid "Image"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:46
+msgid "Caption"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:48
+msgid "Caption Text"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:52, includes/modules/Gallery/Gallery.php:886
+msgid "Title"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:55, includes/modules/Gallery/Gallery.php:902
+msgid "Description"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:61
+msgid "Filter Bar Text"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:65, includes/modules/Gallery/Gallery.php:77, includes/modules/Gallery/Gallery.php:918
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:68, includes/modules/Gallery/Gallery.php:80, includes/modules/Gallery/Gallery.php:871, includes/modules/Gallery/Gallery.php:938
+msgid "Active"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:90, includes/modules/Gallery/Gallery.php:404
+msgid "Gallery"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:95
+msgid "Filters"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:100
+msgid "Items"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:105
+msgid "Item"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:121
+msgid "Choose Images"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:122
+msgid "Choose the images that you would like to appear in the image gallery."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:132
+msgid "Image Size"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:134
+msgid " Select the size of your images."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:146
+msgid "Gallery Layout"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:151
+msgid "Gallery Type"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:155
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:156
+msgid "Masonry"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:157
+msgid "Highlight"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:158
+msgid "Slider"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:167
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:188
+msgid "Spacing"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:202
+msgid "Highlight every"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:221
+msgid "Slider Options"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:229
+msgid "Type"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:232
+msgid "Loop"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:233
+msgid "Slide"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:234
+msgid "Fade"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:247
+msgid "Height"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:262
+msgid "Speed"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:274
+msgid "Arrows"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:277, includes/modules/Gallery/Gallery.php:425, includes/modules/Gallery/Gallery.php:441, includes/modules/Gallery/Gallery.php:571, includes/modules/Gallery/Gallery.php:747, includes/modules/Gallery/Gallery.php:761, includes/modules/Gallery/Gallery.php:778
+msgid "yes"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:278, includes/modules/Gallery/Gallery.php:426, includes/modules/Gallery/Gallery.php:442, includes/modules/Gallery/Gallery.php:572, includes/modules/Gallery/Gallery.php:748, includes/modules/Gallery/Gallery.php:762, includes/modules/Gallery/Gallery.php:779
+msgid "no"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:292
+msgid "Arrow size"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:306
+msgid "Arrow color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:320
+msgid "Arrow Background color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:350
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:360
+msgid "Opacity"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:381
+msgid "No Link"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:382
+msgid "Media File"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:383
+msgid "Attachment Page"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:384
+msgid "Lightbox"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:385
+msgid "Custom Links"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:395
+msgid "Actions"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:399
+msgid "Zoom"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:400
+msgid "Social Share"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:401
+msgid "Slideshow"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:402
+msgid "Full Screen"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:403
+msgid "Download"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:421
+msgid "Hide Filters"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:422
+msgid "Allow users to filter the gallery images by their tags."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:437
+msgid "Hide \"All\" filter"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:444
+msgid "Choose to show or hide the “All” filter."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:454
+msgid "Text For \"All\" filter"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:456
+msgid "All"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:457
+msgid "Set the label you want to use for the “All” filter that will contain all the images in your gallery."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:468
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:483, includes/modules/Gallery/Gallery.php:600
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:484, includes/modules/Gallery/Gallery.php:601
+msgid "Here you can define the alignment of Button"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:495, includes/modules/Gallery/Gallery.php:619, includes/modules/Gallery/Gallery.php:664
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:509
+msgid "Active Background Color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:523
+msgid "Filter Spacing"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:538
+msgid "Filter Padding"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:554
+msgid "Filters Border"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:568
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:583
+msgid "Items Per Page"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:606
+msgid "Left"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:607
+msgid "Center"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:608
+msgid "Right"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:634, includes/modules/Gallery/Gallery.php:679
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:649, includes/modules/Gallery/Gallery.php:694
+msgid "Border Color"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:709
+msgid "Pager Padding"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:725
+msgid "Pager Spacing"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:744
+msgid "Hide Caption"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:758
+msgid "Hide Title"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:775
+msgid "Hide Description"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:856
+msgid "Filter"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:1001, includes/modules/Gallery/Gallery.php:1016
+msgid "Gallery not found."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:1110, includes/modules/Gallery/Gallery.php:1111
+msgid "Open image"
+msgstr ""
